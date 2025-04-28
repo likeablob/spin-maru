@@ -1,9 +1,9 @@
 # spin-maru
 
 <img src="./assets/spin_maru_1.jpg" height="250px">
-<img src="./assets/spin_maru_1.gif" height="250px">
+<video src="https://github.com/user-attachments/assets/ebdbabc0-5cc7-43a6-a732-e8d0603426d6" height="200px" autoplay loop muted playsinline></video>
 
-A custom input device with a circular touchpad and a free-spinning scroll wheel.
+Spin-maru is a custom input device with a circular touchpad and a free-spinning scroll wheel.
 
 - Cirque 35mm round touchpad module.
 - Free-spinning wheel on a ball bearing, monitored by a high-resolution magnetic encoder (AS5600).
@@ -58,6 +58,12 @@ $ qmk flash -kb likeablob/spin_maru -km default
 # Double-click the bottom reset switch quickly to enter bootloader mode.
 # Then, run the 'qmk flash' command again.
 ```
+
+## Photos
+
+<img src="./assets/spin_maru_2.jpg" height="250px">
+
+<video src="https://github.com/user-attachments/assets/ac635eaa-d613-44cf-9fdc-b7874c3f3494" height="200px" autoplay loop muted playsinline></video>
 
 ## License
 
