@@ -1,0 +1,3 @@
+[submodule "enclosure/BOSL2"]
+	path = enclosure/BOSL2
+	url = https://github.com/BelfrySCAD/BOSL2
