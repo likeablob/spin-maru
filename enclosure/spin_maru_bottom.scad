@@ -1,0 +1,5 @@
+include <lib/spin_maru.scad>
+
+$fn = 100;
+
+spin_maru_bottom();
